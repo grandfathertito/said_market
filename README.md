@@ -27,4 +27,3 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
  
 </table>
-![Alt text](https://raw.githubusercontent.com/grandfathertito/said_market/refs/heads/main/screen_shot/photo_2025-09-27_13-04-15.jpg)
